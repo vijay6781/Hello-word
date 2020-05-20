@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](http://cbseresults.nic.in/class10/class10th19.htm/).
+For more details see [cbse 10th result 2019](http://cbseresults.nic.in/class10/class10th19.htm/).
 
 ### Jekyll Themes
 
