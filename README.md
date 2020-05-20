@@ -1,10 +1,10 @@
-# Welcome to DISCOVERY
+  # WELCOME TO MY WEBSITE.
 
- This Website Helps Student.This is good initiativ,As we know that we all have old as well new book which may be useful for studen.  
+This Website Helps Student.This is good initiativ,As we know that we all have old as well new book which may be useful for student.  
+                          [Cbse 10th result](http://cbseresults.nic.in/class10/class10th19.htm/)
+                           [Bihar Board 10th result](http://biharboardonline.bihar.gov.in) 
+                            [Join to facebook](https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/)
 
-Whenever you commit 
-
-to this repository, GitHub Pages will run [sarkariresult](https://www.sarkariresult.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 First Header | Second Header | third header
 ------------ | ------------- | ............
