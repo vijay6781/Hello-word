@@ -9,7 +9,7 @@ This Website Helps Student.This is good initiativ,As we know that we all have ol
 First Header | Second Header | third header
 ------------ | ------------- | ............
 Content from cell 1 | Content from cell 2 | jzyhbgjhihb
-Content in the first column | Content in the second column | nvcgoc 
+ | Content in the second column | nvcgoc 
 
 ### Markdown
 
