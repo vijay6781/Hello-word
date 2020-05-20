@@ -6,8 +6,8 @@ Whenever you commit
 
 to this repository, GitHub Pages will run [sarkariresult](http://cbseresults.nic.in/class10/class10th19.htm) to rebuild the pages in your site, from the content in your Markdown files.
 
-First Header | Second Header |third header
------------- | -------------
+First Header | Second Header | third header
+------------ | ------------- | ............
 Content from cell 1 | Content from cell 2 | jzyhbgjhihb
 Content in the first column | Content in the second column | nvcgoc 
 
