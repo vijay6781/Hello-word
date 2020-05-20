@@ -2,7 +2,7 @@
 
  This Website Helps Student.This is good initiativ,As we know that we all have old as well new book which may be useful for studen.  
 
-Whenever you commit to this repository, GitHub Pages will run [sarkariresult](https://sarkariresult.github.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [sarkariresult](https://www.sarkariresult.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
