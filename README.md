@@ -4,7 +4,7 @@
 
 Whenever you commit 
 
-to this repository, GitHub Pages will run [sarkariresult](http://cbseresults.nic.in/class10/class10th19.htm) to rebuild the pages in your site, from the content in your Markdown files.
+to this repository, GitHub Pages will run [sarkariresult](https://www.sarkariresult.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 First Header | Second Header | third header
 ------------ | ------------- | ............
