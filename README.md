@@ -49,17 +49,26 @@ th {
 <tr>
  <td> Bihar Board 10th Result </td>
  <td><a href="http://biharboardonline.bihar.gov.in">click here</a></td>
+	
 </tr>
+
 <tr>
+	
  <td> Bihar Board 12th Result </td>
  <td><a href="http://onlinebseb.in/">click here</a></td>
+ 
 </tr>
+
 <tr>
+	
  <td>  CBSE 10th Result</td>
  <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
+ 
 </tr>
+
  <td>  CBSE 12th Result</td>
  <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
+ 
 </tr>
 </table>
 <br>
@@ -84,7 +93,7 @@ th {
  <td  id="viju" >65</td>
 	
 </tr>	
-</tr>	
+<tr>
 <td> Biology 10th Bharati Bhavan </td>
  <td>120</td>
  <td  id="viju" >90%</td>
@@ -102,6 +111,7 @@ th {
   <tr>
     <th scope="row">For buy book</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
+	  
   </tr>
   </table>
   
