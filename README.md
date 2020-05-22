@@ -156,8 +156,8 @@ image{
         <th scope="col">Video Link</th>
         <th  id="viju" scope="col">Name of book</th>
         <th  id="viju"scope="col">MRP(₹)</th>
-        <th  id="viju"scope="col">Discount</th>
-        <th id="viju" scope="col"> Selling Price(₹)</th>
+        <th  id="viju"scope="col">Disco.</th>
+        <th id="viju" scope="col"> Sell(₹)</th>
     
 </tr>
 <tr>
