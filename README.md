@@ -1,4 +1,3 @@
-<!doctype html>
 
 <head>
 <title>discover help</title>
@@ -17,7 +16,7 @@ th {
     padding: 20px;
    }
   th[scope="col"] {
-  background-color:rgba(2,220,2,.5);
+  background-color:rgba(2,220,2,.2);
    color:#fff;
 }
 
@@ -65,6 +64,7 @@ th {
  <td><a href="http://cbseresults.nic.in/class10/class10th19.htm">click here</a></td>
  
 </tr>
+<tr>
 
  <td>  CBSE 12th Result</td>
  <td><a href="http://cbseresults.nic.in/class12/class12th19.htm">click here</a></td>
@@ -86,7 +86,8 @@ th {
  <td  id="viju" >90%</td>
  <td  id="viju" >135</td>
 	
-</tr>	
+</tr>
+<tr>
 <td>  Upsc NDA/NA   </td>
  <td>650</td>
  <td  id="viju" >90%</td>
