@@ -20,8 +20,16 @@ th {
    color:#fff;
 }
  th[scope="row"] {
-  background-color:rgba(200,220,2,.8);
-   color:#fff;
+	border-right:540px;
+	border-left: 130px;
+	width: 700px;
+	color: rgb(230,59,99);
+	border: 2px solid yellow;
+	height: 60px;
+	background:rgba(100,255,110,.9);
+	text-align: center;
+	padding: 15px;
+	margin: auto;
 }
 
 </style>
