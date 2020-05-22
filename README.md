@@ -24,26 +24,28 @@ th {
 </style>
 
   
-<h2 style="color:rgb(255, 102, 163);text-align: center;font-size:25px">Welcome to my website</h2>
+<h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
 <h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
  
  
-                       NOTICE
+                             NOTICE
                             
-         This Website Created For Student Help  
+                This Website Created For Student Help  
 	 
                 
 <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon </h3>		
   
 <table>
+	
 <tr>
 	<th scope="col"> RESULT</th>
         <th scope="col"> Link</th>
       
 </tr>
+
 <tr>
  <td> Bihar Board 10th Result </td>
  <td><a href="http://biharboardonline.bihar.gov.in">click here</a></td>
@@ -61,7 +63,6 @@ th {
 </tr>
 </table>
 <br>
----
 
   <table>
 	<tr>
@@ -91,7 +92,7 @@ th {
 	
 </tr>	
 </table>
-----
+<br>
  <table>
    <tr>
       <th scope="row">More Book</th>
