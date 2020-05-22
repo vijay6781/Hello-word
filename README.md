@@ -17,7 +17,7 @@ th {
     padding: 20px;
    }
   th[scope="col"] {
-  background-color:rgb(200,20,20);
+  background-color:rgba(2,220,2,.5);
    color:#fff;
 }
 
