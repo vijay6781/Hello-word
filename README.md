@@ -18,7 +18,7 @@ th {
    }
   th[scope="col"] {
   background-color:rgb(200,20,20);
-   color: blue;
+   color:#fff;
 }
 
 </style>
