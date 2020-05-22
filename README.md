@@ -16,7 +16,11 @@ th {
     padding: 20px;
    }
   th[scope="col"] {
-  background-color:rgba(2,220,2,.2);
+  background-color:rgba(2,220,2,.8);
+   color:#fff;
+}
+ th[scope="row"] {
+  background-color:rgba(200,220,2,.8);
    color:#fff;
 }
 
