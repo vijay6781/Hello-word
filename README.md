@@ -1,6 +1,6 @@
 
 <head>
-<title>discover help</title>
+<title>discovery help</title>
 </head>
 <style type="text/css">
 
@@ -31,7 +31,7 @@ th {
     margin: auto;
 	border-right:65px;
 	border-left: 73px;
-	width: 100px;
+	width: 250px;
 	color: rgb(230,59,99);
 	border: 2px solid yellow;
 	height: 60px;
