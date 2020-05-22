@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+
 <head>
 <title>discover help</title>
 </head>
@@ -37,9 +37,8 @@ body{
 </tr>
 </table>
 
-   Book Name     | MRP(₹) |less| Price(₹)|
-    Errorless Physics| 1350 | 90% | 135 |
-   Upsc NDA/NA     | 650 | 90% | 65 |
+ Book Name     | MRP(₹) |less| Price(₹)|
+  Errorless Physics| 1350 | 90% | 135 |
+ Upsc NDA/NA     | 650 | 90% | 65 |
   Biology 10th Bharati | 120 | 80% | 24|
 
-</html>  
