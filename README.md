@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
    color:#fff;
-   background:rgba(2,220,2,.8);
+   background:rgba(255, 26, 117,0.8);
    font-size:30px;
 text-right:44px;
 }
