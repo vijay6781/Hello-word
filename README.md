@@ -5,7 +5,7 @@
 </head>
 <style type="text/css">
 body{
-	border: 2px solid rgba(10,200,199,0.8);
+	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
 
 
@@ -37,7 +37,6 @@ body{
 <tr>
 	<th scope="row">3.</th>
 <td><a href="https://www.youtube.com/watch?v=vg_HYDI23as">Third Video Link</a></td>
-<td id="viju">Bharati Bhavan Math 10th(Hindi)</td>
 
 </tr>
 <tr>
