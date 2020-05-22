@@ -30,7 +30,26 @@ table
 <h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
   
-  
+<table>
+<tr>
+	<th scope="col">s.N.</th>
+        <th scope="col">Video Link</th>
+        <th  id="viju" scope="col">Name of book</th>
+        <th  id="viju"scope="col">MRP(₹)</th>
+        <th  id="viju"scope="col">Discount</th>
+        <th id="viju" scope="col"> Selling Price(₹)</th>
+    
+</tr>
+<tr>
+ <th scope="row">1.</th>
+ <td><a href="https://www.youtube.com/watch?v=p2w6UGHEd00">First Video Link</a></td>
+ <td  id="viju" >NCERT CHEMESTRY 11th(english)</td>
+ <td  id="viju">155</td>
+ <td  id="viju">90%</td>
+ <td  id="viju">15</td>
+
+</tr>
+</table>  
 </body>
 
 
