@@ -12,6 +12,10 @@ body{
 }
 
 td,
+th {
+    border: 5px solid rgb(190, 255, 190);
+    padding: 20px;
+   }
   th[scope="col"] {
   background-color:rgb(200,20,20);
    color: blue;
