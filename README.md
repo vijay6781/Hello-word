@@ -94,7 +94,6 @@ padding-top:9px;
 	margin-top: 10px;
 }
 #viju{
-
 	margin-right: 10px;
 	color: rgb(255,20,110);
 	background:rgba(180,255,100,0.2);
@@ -103,7 +102,6 @@ padding-top:9px;
 h3
 {
 	text-align:center;
-
 	border:3px solid rgb(199,100,99);
 	width: 300px;
 	height: 30px;
@@ -153,7 +151,7 @@ image{
 <table>
 <tr>
 	<th scope="col">s.N.</th>
-        <th scope="col">Video Link</th>
+        <th scope="col">VideoLink</th>
         <th  id="viju" scope="col">Name of book</th>
         <th  id="viju"scope="col">MRP(₹)</th>
         <th  id="viju"scope="col">Disco.</th>
