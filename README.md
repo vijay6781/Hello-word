@@ -144,7 +144,7 @@ image{
  <h2 class="ram"><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result Link</a></h2>
  <h3 id="ts"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
 <h2 id="special"><span><br>Video Created By:Babloo Sir
-<br>Discovery Math Video Link:<span></h2>
+<br>Discovery Math Video Link:</span></h2>
 <div><h4 class="Babloo">FOR STUDENT HELP</h4></div>	
 
 <table>
@@ -224,6 +224,6 @@ image{
 </tr>
 </table>
 <h4 id="vkkk">Contact:Discovery Coaching Noorsarai,Sangat(Nalanda)</h4>
-</body>
 
+</body>
 </html>  
