@@ -43,8 +43,13 @@ th {
 
 </style>
 
-  
-<h2 style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</h2>
+<table>
+<tr>	  
+     <th scope="row"><div style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</div></th>
+
+</tr>
+</table>
+
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
 <h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.
