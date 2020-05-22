@@ -10,8 +10,8 @@
     align-items: center;
     justify-content: center;
    color:#fff;
-   background:green;
-   font-size:40px;
+   background:rgba(2,220,2,.8);
+   font-size:30px;
 text-right:44px;
 }
 
@@ -60,7 +60,7 @@ th {
 </style>
 
  <div class="container">
-        <div class="item">WELCOME</div>
+        <div class="item">Welcome to my website</div>
     </div>
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
@@ -159,11 +159,7 @@ th {
  
 ##         WEBSITE WILL BE UPDATE... 
 
- <table>
-   <tr>
-  <th  scope="row"><div syle="color:rgb(199,77,99) "><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div></th>
-  </tr>
-  </table>
+ 
   <div class="container">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
