@@ -11,9 +11,17 @@ body{
 
 }
 
+table
+{
+        margin:auto;
+   border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 20);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
 
 </style>
-
 
 <body>
 
@@ -49,5 +57,7 @@ body{
 <td><a href="https://www.youtube.com/watch?v=iHQMcLmDWYg">Fifth Video Link</a></td>
 
 </tr>
+
 </body>
+
 </html>  
