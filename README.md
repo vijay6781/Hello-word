@@ -25,9 +25,9 @@ table
 
 <body>
 <h2 style="color:rgb(255, 102, 163);text-align: center;font-size:25px">Welcome to my website</h2>
- <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:25px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
+ <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
- <h3 style="color:blue"> This Website Helps Student.This is good initiative.<br>
+ <h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.<br>
   As we know that we all have old as well new book which may be useful for student.</h3>
   
   
