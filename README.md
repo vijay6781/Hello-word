@@ -37,12 +37,11 @@ body{
 </tr>
 </table>
 
-gfsfxugihgkis |mlknavxvkbj|
-ajzvxa |ajxg |
-
-
-
 </body>
 
+   Book Name     | MRP(₹) |less| Price(₹)|
+    Errorless Physics(AIIMS/IIT) | 1350 | 90% | 135 |
+   Upsc NDA/NA     | 650 | 90% | 65 |
+  Biology 10th Bharati Bhavan| 120 | 80% | 24|
 
 </html>  
