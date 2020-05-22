@@ -3,6 +3,22 @@
 <title>discovery help</title>
 </head>
 <style type="text/css">
+	
+.container {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   color:#fff;
+   background:green;
+   font-size:40px;
+text-right:44px;
+}
+
+.item {
+    width: em;
+}
+    	
 
 table{
    teble-align:center;
@@ -43,12 +59,9 @@ th {
 
 </style>
 
-<table>
-<tr>	  
-     <th scope="row"><div style="color:rgb(255, 51, 153);text-align: center;font-size:25px">Welcome to my website</div></th>
-
-</tr>
-</table>
+ <div class="container">
+        <div class="item">WELCOME</div>
+    </div>
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
@@ -151,6 +164,9 @@ th {
   <th  scope="row"><div syle="color:rgb(199,77,99) "><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div></th>
   </tr>
   </table>
+  <div class="container">
+        <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
+    </div>
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
  
