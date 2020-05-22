@@ -39,8 +39,7 @@ caption {
     caption-side: bottom;
 }
 
-table {
-     
+table { 
     border-collapse: collapse;
     border: 2px solid rgb(200, 200, 20);
     letter-spacing: 1px;
@@ -153,9 +152,9 @@ image{
 	<th scope="col">s.N.</th>
         <th scope="col">VideoLink</th>
         <th  id="viju" scope="col">Name of book</th>
-        <th  id="viju"scope="col">MRP(₹)</th>
-        <th  id="viju"scope="col">Disco.</th>
-        <th id="viju" scope="col"> Sell(₹)</th>
+        <th  id="viju" scope="col">MRP(₹)</th>
+        <th  id="viju" scope="col">Disco.</th>
+        <th id="viju"  scope="col"> Sell(₹)</th>
     
 </tr>
 <tr>
