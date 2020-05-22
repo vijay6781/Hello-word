@@ -3,6 +3,12 @@
 <title>discover help</title>
 </head>
 <style type="text/css">
+
+table{
+   teble-align:center;
+   text-align:center;
+}
+
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
@@ -20,17 +26,20 @@ th {
    color:#fff;
 }
  th[scope="row"] {
-	border-right:540px;
-	border-left: 130px;
-	width: 700px;
+    text-align: center;
+    border-align:center;
+    margin: auto;
+	border-right:65px;
+	border-left: 73px;
+	width: 100px;
 	color: rgb(230,59,99);
 	border: 2px solid yellow;
 	height: 60px;
 	background:rgba(100,255,110,.9);
-	text-align: center;
-	padding: 15px;
+	padding: 25px;
 	margin: auto;
 }
+
 
 </style>
 
