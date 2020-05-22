@@ -35,7 +35,22 @@ body{
  <td  id="viju" >NCERT CHEMESTRY 11th(english)</td>
 
 </tr>
-</table>  
+</table>
+<br>
+<table>
+<tr>
+	<th scope="col">s.N.</th>
+        <th scope="col">Video Link</th>
+        <th scope="col">Name of book</th>
+        
+</tr>
+<tr>
+ <th scope="row">1.</th>
+ <td><a href="https://www.youtube.com/watch?v=p2w6UGHEd00">First Video Link</a></td>
+ <td  id="viju" >NCERT CHEMESTRY 11th(english)</td>
+
+</tr>
+</table>
 </body>
 
 
