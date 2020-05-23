@@ -128,6 +128,7 @@ th {
  
 </tr>
 </table>
+<hr>
 </div>
 <div class="tss">
   <table>
@@ -191,7 +192,6 @@ th {
  <div class="container">
         <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona cases</a></div>
     </div>
- <br>
   <div class="container1">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
