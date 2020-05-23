@@ -23,6 +23,7 @@ text-right:44px;
 table{
    teble-align:center;
    text-align:center;
+   margin:1.66%;
 }
 
 body{
