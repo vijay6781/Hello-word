@@ -4,6 +4,19 @@
 </head>
 <style type="text/css">
 	
+.container1 {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   color:#fff;
+   background:rgb(255, 255, 77);
+   font-size:30px;
+text-right:44px;
+padding:8px;
+}
+	
+	
 .container {
     height: 100px;
     display: flex;
@@ -13,6 +26,7 @@
    background:rgba(255, 26, 90,0.9);
    font-size:30px;
 text-right:44px;
+padding:8px;
 }
 
 .item {
@@ -23,14 +37,11 @@ text-right:44px;
 table{
    teble-align:center;
    text-align:center;
-   margin:1.85%;
-   padding:15px;
 }
 
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
-	margin: 20px auto;
 
 
 }
@@ -77,7 +88,7 @@ th {
                 This Website Created For Student Help  
 	 
                 
-<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon </h3>		
+<h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
   
 <table>
 	
@@ -89,7 +100,7 @@ th {
 
 <tr>
  <td> Bihar Board 10th Result </td>
- <td><a href="http://biharboardonline.bihar.gov.in">click here</a></td>
+ <td><a href="http://biharboardonline.bihar.gov.in/">click here</a></td>
 	
 </tr>
 
@@ -130,6 +141,13 @@ th {
 	
 </tr>
 <tr>
+ <td> Errorless Chemistry(AIIMS/IIT) </td>
+ <td>1350</td>
+ <td  id="viju" >90%</td>
+ <td  id="viju" >135</td>
+	
+</tr>
+<tr>
 <td>  Upsc NDA/NA   </td>
  <td>650</td>
  <td  id="viju" >90%</td>
@@ -162,9 +180,12 @@ th {
  
 ##         WEBSITE WILL BE UPDATE... 
 
+ <div class="container">
+        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
+    </div>
  
-  <div class="container">
-        <div class="item"><div style="font-size:48px;text-color:yellow;background:rgb(1,255,1)"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div></div>
+  <div class="container1">
+        <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
