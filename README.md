@@ -27,7 +27,7 @@ padding-left:10px;
     justify-content: center;
    color:#fff;
    background:rgba(255, 26, 90,0.9);
-   border: 2px solid rgb(0, 255, 255);
+   border: 2px solid rgb(0, 51, 204);
    font-size:30px;
 text-right:44px;
 padding:8px;
@@ -191,7 +191,7 @@ th {
 ##         WEBSITE WILL BE UPDATE... 
 
  <div class="container">
-        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
+        <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona cases</a></div>
     </div>
  <hr>
   <div class="container1">
