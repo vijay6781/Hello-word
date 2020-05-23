@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
    color:#fff;
-   background:rgba(255, 26, 117,0.9);
+   background:rgba(240, 26, 90,0.8);
    font-size:30px;
 text-right:44px;
 }
@@ -23,7 +23,7 @@ text-right:44px;
 table{
    teble-align:center;
    text-align:center;
-   margin:1.66%;
+   margin:1.85%;
 }
 
 body{
