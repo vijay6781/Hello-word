@@ -44,7 +44,7 @@ table{
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
-
+        table-align:center;
 
 }
 
