@@ -16,7 +16,7 @@ text-right:44px;
 padding:8px;
 }
 .tss{
-padding-left:25px;
+padding-left:20px;
 }
 	
 .container {
@@ -91,7 +91,7 @@ th {
 	 
                 
 <h3 style="color:rgb(255, 51, 15);text-align: center;font-size:25px">10th result coming soon</h3>		
-  
+ <div class="tss"> 
 <table>
 	
 <tr>
@@ -126,6 +126,7 @@ th {
  
 </tr>
 </table>
+</div>
 <br>
 
   <table>
