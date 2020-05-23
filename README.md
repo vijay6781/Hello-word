@@ -169,6 +169,7 @@ th {
  <td><a href="https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing
    ">click here</a></td>
   </tr>
+ <hr>
   <tr>
     <th scope="row">For buy book</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
@@ -183,7 +184,7 @@ th {
  <div class="container">
         <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona news</a></div>
     </div>
- 
+ <hr>
   <div class="container1">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
