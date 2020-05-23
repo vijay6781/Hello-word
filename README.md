@@ -11,7 +11,7 @@
     justify-content: center;
    color:#fff;
    background:rgb(255, 255, 77);
-   border: 2px solid green;
+   border: 2px solid red;
    font-size:30px;
 text-right:44px;
 padding:8px;
@@ -70,7 +70,7 @@ th {
 	border: 2px solid yellow;
 	height: 60px;
 	background:rgba(100,255,110,.9);
-	padding: 25px;
+	padding: 20px;
 	margin: auto;
 }
 
@@ -193,7 +193,7 @@ th {
  <div class="container">
         <div class="item"><a href="https://www.worldometers.info/coronavirus/country/india/">India Corona cases</a></div>
     </div>
- <hr>
+ 
   <div class="container1">
         <div class="item"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div>
     </div>
