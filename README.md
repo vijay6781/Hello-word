@@ -16,7 +16,7 @@ text-right:44px;
 padding:8px;
 }
 .tss{
-padding-left:20px;
+padding-left:10px;
 }
 	
 .container {
@@ -128,7 +128,7 @@ th {
 </table>
 </div>
 <br>
-
+<div class="tss">
   <table>
 	<tr>
 	<th scope="col"> Book Name </th>
@@ -165,6 +165,7 @@ th {
 	
 </tr>	
 </table>
+</div>
 <br>
 <div class="tss">
  <table>	
