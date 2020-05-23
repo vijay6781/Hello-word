@@ -27,6 +27,7 @@ padding-left:10px;
     justify-content: center;
    color:#fff;
    background:rgba(255, 26, 90,0.9);
+   border: 2px solid rgb(0, 255, 255);
    font-size:30px;
 text-right:44px;
 padding:8px;
