@@ -15,7 +15,9 @@
 text-right:44px;
 padding:8px;
 }
-	
+.tss{
+padding-left:25px;
+}
 	
 .container {
     height: 100px;
@@ -163,7 +165,8 @@ th {
 </tr>	
 </table>
 <br>
- <table>
+<div class="tss">
+ <table>	
    <tr>
       <th scope="row">More Book</th>
  <td><a href="https://docs.google.com/spreadsheets/d/1kvnfD-IXiNV7L51Zh9LpoPR2V5DxA_YF1zh9-gUldmw/edit?usp=sharing
@@ -177,6 +180,7 @@ th {
 	  
   </tr>
   </table>
+  </div>
   
  **Book Will Available After Lockdown.**  
  
