@@ -37,6 +37,7 @@ padding:8px;
     	
 
 table{
+     align:center;
    teble-align:center;
    text-align:center;
 }
@@ -44,7 +45,7 @@ table{
 body{
 	border: 2px solid rgba(200,20,19,0.5);
 	background:rgb(255,255,255);
-        table-align:center;
+        
 
 }
 
