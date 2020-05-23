@@ -170,6 +170,7 @@ th {
    ">click here</a></td>
   </tr>
  <hr>
+<hr>	
   <tr>
     <th scope="row">For buy book</th> 
     <td><a href="https://forms.gle/5rYRkacWytBEdRN49">click here</a></td>
