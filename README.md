@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: center;
    color:#fff;
-   background:rgba(240, 26, 90,0.8);
+   background:rgba(255, 26, 90,0.9);
    font-size:30px;
 text-right:44px;
 }
@@ -24,6 +24,7 @@ table{
    teble-align:center;
    text-align:center;
    margin:1.85%;
+   padding:25px;
 }
 
 body{
