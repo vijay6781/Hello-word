@@ -24,7 +24,7 @@ table{
    teble-align:center;
    text-align:center;
    margin:1.85%;
-   padding:30px;
+   padding:25px;
 }
 
 body{
