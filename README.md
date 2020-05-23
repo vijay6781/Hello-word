@@ -81,7 +81,7 @@ th {
 
  <h3 style="color:rgb(59, 255, 163);text-align: center;font-size:15px"><a href="https://www.facebook.com/Life-long-104599801271473"> JOIN TO MY FACEBOOK PAGE</a></h3>
 
-<h3 style="color:blue;margin:auto;font-size:20px"> This Website Helps Student.This is good initiative.
+<h3 style="color:blue;margin:auto;font-size:20px"> This Website <span style="color:red"> Helps Student</span>.This is good initiative.
  As we know that we all have old as well new book which may be useful for student.</h3>
  
  
