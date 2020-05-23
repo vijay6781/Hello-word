@@ -163,7 +163,7 @@ th {
 
  
   <div class="container">
-        <div class="item"><div style="font-size:48px;background:rgb(1,255,1)"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div></div>
+        <div class="item"><div style="font-size:48px;text-color:yellow;background:rgb(1,255,1)"><a href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona news</a></div></div>
     </div>
 
    <h1 style="color:rgb(10,200,60);font-size:50px;text-align: center;">Thank You... </h1>
